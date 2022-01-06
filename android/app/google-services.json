@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803864318111",
+    "firebase_url": "https://tff-trials.firebaseio.com",
+    "project_id": "tff-trials",
+    "storage_bucket": "tff-trials.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803864318111:android:c3b1ad60b4a616d0e4d2aa",
+        "android_client_info": {
+          "package_name": "com.example.new_app_test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803864318111-5disrnocodhbhehfos0g89mv68d081be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-mSgqRHipd2OnvZXCq4qIkp_M1wVVpZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803864318111-5disrnocodhbhehfos0g89mv68d081be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
