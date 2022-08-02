@@ -1,16 +1,13 @@
-# new_app_test1
+# Online Coupons App For Fest
 
-A new Flutter application.
+Aims at reduscing paper wasteage
 
-## Getting Started
+Substantially reduced the time taken with the conventional method.
 
-This project is a starting point for a Flutter application.
+○ Built a decorative front end using dart and flutter APIs
 
-A few resources to get you started if this is your first Flutter project:
+○ Used Google Firebase to improve the encryption and to make the app dynamic.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+○ Made a Cash-based coupon allocation system which reduces paper wastage.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+○ Backend gets updated to provide regular news regarding the events.
